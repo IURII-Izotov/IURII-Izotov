@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/iurii_izotov" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw" alt="telegram width="40" height="40"/> </a>
+<a href="https://t.me/iurii_izotov" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw" alt="telegram width="40" height="40"/>@iurii_izotov</a>
 <p align="left">
 </p>
 
